@@ -10,3 +10,5 @@ This project is a prototype for a story-driven action-adventure RPG set in a ric
 <img width="1906" height="895" alt="companions2" src="https://github.com/user-attachments/assets/a08e28e2-2abf-4429-a45c-0734e3ef1c68" />
 <img width="2555" height="1395" alt="companions3" src="https://github.com/user-attachments/assets/681e6959-d707-4df3-8414-681b4448bba1" />
 <img width="1751" height="870" alt="companions1" src="https://github.com/user-attachments/assets/77d11de2-3bfb-4bbe-ab5a-743942d95819" />
+<img width="2256" height="1177" alt="image" src="https://github.com/user-attachments/assets/539b7684-ab3a-4ecf-8a0c-5be4a124d0c8" />
+
