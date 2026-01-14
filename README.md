@@ -1,7 +1,7 @@
 This project is a prototype for a story-driven action-adventure RPG set in a richly detailed ancient world inspired by true events. Players explore standalone historical scenarios or follow a cohesive single-player story mode, where moral choices, dynamic systems, and immersive storytelling bring the past to life.
 
-- Designed a hybrid AI system where Utility AI selects the optimal action based on context, and a custom node-based action graph deterministically sequences and executes that action, enabling scalable, designer-friendly, and debuggable NPC behavior.
-- Designed a modular, data-driven Game Effect system where gameplay effects are authored as reusable behaviors (e.g. damage, destroy, spawn, status effects) and executed through a shared GameEffectContext, enabling designers to script new effects without touching core gameplay code.
+- Designed a hybrid AI system where Utility AI selects the optimal action based on context, and a custom node-based action graph deterministically sequences and executes that action.
+- Designed a modular, data-driven Game Effect system where gameplay effects are authored as reusable behaviors (e.g. damage, destroy, spawn, status effects) and executed through a shared GameEffectContext.
 
 ![ezgif-583537caa9f1cf6f](https://github.com/user-attachments/assets/108876d8-32c4-4057-b6a6-90ac8d85181d)
 <img width="1664" height="757" alt="node" src="https://github.com/user-attachments/assets/0cba9aa2-1f3c-4090-b1f3-63d64da74b18" />
